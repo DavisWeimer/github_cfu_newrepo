@@ -1,0 +1,3 @@
+- `git remote -v` : Checks and displays status of connection to hub
+- `git diff` : Checks changes made in code editor BEFORE adding the file to the .git stating area
+- `git log` : Checks and displays history of commits
